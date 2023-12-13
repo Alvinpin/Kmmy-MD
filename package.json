@@ -1,5 +1,5 @@
 {
-    "name": "Vin-MD",
+    "name": "kmmy-MD",
     "version": "4.4.4",
     "description": "Simple Whatsapp Bot By VnShoop",
     "main": "index.js",
@@ -31,7 +31,7 @@
         "url": "git+https://github.com/Zeltoria/Clara-MD.git"
     },
     "bugs": {
-        "url": "https://github.com/Zeltoria/Clara-MD/issues"
+        "url": "https://github.com/Alvinpin/Kmmy-MD/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
