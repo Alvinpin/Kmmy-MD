@@ -8,6 +8,7 @@
 - support panel,termux & replit
 - Pastikan Isi Apikey Kamu Di Config.js Agar Fiturnya Work
 - Pastiakan Kamu Sudah Subrek Chanel Vinwert
+- Harap Manuruh Credit Jika Ingin Recode Jika Tidak Di Pastikan Tidak Ada Update Lagi Ke Versi Selanjutnya
 
 ### Sedikit Tentang Bot
 - ✔️ | **Simple** 
@@ -24,8 +25,9 @@
 - ✔️ | Chat Gpt
 - ✔️ | Werewolf Games
 - ✔️ | And Others
-- ✔️ |Bug Warcall 
-- ✔️ |Dan Masih Banyak Lagi
+- ✔️ | Bug Warcall
+- ✔️ | Create Panel Pterodactyl
+- ✔️ | Dan Masih Banyak Lagi
 - ---------
 
 
