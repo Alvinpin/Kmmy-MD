@@ -4,28 +4,28 @@
     <h1 align="center">Kmmy - MD</h1>
 
 ## Baca Sebelum Pakai!!
-- Ubah Semua Informasi Owner Di Config.js
-- - Jika Kamu Mengalami Masalah, Bisa Buat Issues Di Page Ini
+- ubah informasi di config.js
+- support panel,termux & replit
 - Pastikan Isi Apikey Kamu Di Config.js Agar Fiturnya Work
 - Pastiakan Kamu Sudah Subrek Chanel Vinwert
 
 ### Sedikit Tentang Bot
 - ✔️ | **Simple** 
-- - ✔️ | **No Button** 
+- ✔️ | **No Button** 
 - ✔️ | **Multi Device** 
 - ✔️ | **Work All Fitur**
-- ✔️ | **85% Scrape Sudah Tidak Menggunakan Apikey**
+- ✔️ | **Beberapa Fitur Sudah Menggunakan Scrape Tidak Perlu Menggunakan Apikey**
 - ---------
 ### Fitur Yang Dimiliki
-- - ✔️ | Tools 
+- ✔️ | Tools 
 - ✔️ | Remini
-- - ✔️ | Quotes
+- ✔️ | Quotes
 - ✔️ | Confess
-- - ✔️ | Chat Gpt
-- - ✔️ | Werewolf Games
+- ✔️ | Chat Gpt
+- ✔️ | Werewolf Games
 - ✔️ | And Others
--  ✔️|Bug Warcall 
--  ✔️|Dan Masih Banyak Lagi
+- ✔️ |Bug Warcall 
+- ✔️ |Dan Masih Banyak Lagi
 - ---------
 
 
