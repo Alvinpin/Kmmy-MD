@@ -1,7 +1,7 @@
 <p align="center">
     <img src="https://telegra.ph/file/921c641116de347e3d58e.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
     </p>
-    <h1 align="center">Kmmy - MD</h1>
+    <h1 align="center">Vin - MD</h1>
 
 ## Baca Sebelum Pakai!!
 - ubah informasi di config.js
