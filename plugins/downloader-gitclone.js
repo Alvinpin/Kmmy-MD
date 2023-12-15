@@ -1,7 +1,7 @@
 import fetch from 'node-fetch'
 const regex = /(?:https|git)(?::\/\/|@)github\.com[\/:]([^\/:]+)\/(.+)/i
 let handler = async (m, {conn, text, args, usedPrefix, command }) => {
-    if (!args[0]) throw `Example user ${usedPrefix}${command} Xyro/Clara-MD`
+    if (!args[0]) throw `Example user ${usedPrefix}${command} Alvinpin/Kmmy-MD`
     m.reply(wait)
     try {
     let [usr, rep] = text.split`/`
